@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3.csproj": {}
+    "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\KZPLabs\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3.csproj": {
+    "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\KZPLabs\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3.csproj",
+        "projectUniqueName": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\KZPLabs\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3.csproj",
         "projectName": "Ki-301.Kekosh.Lab3",
-        "projectPath": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3.csproj",
+        "projectPath": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\KZPLabs\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3.csproj",
         "packagesPath": "C:\\Users\\xalva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3\\obj\\",
+        "outputPath": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\KZPLabs\\Ki-301.Kekosh.Lab3\\Ki-301.Kekosh.Lab3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xalva\\AppData\\Roaming\\NuGet\\NuGet.Config",

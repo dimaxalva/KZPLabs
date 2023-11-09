@@ -1,0 +1,15 @@
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\obj\Debug\net7.0\lab6.csproj.AssemblyReference.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\obj\Debug\net7.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\obj\Debug\net7.0\lab6.AssemblyInfoInputs.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\obj\Debug\net7.0\lab6.AssemblyInfo.cs
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\obj\Debug\net7.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\bin\Debug\net7.0\lab6.exe
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\bin\Debug\net7.0\lab6.deps.json
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\bin\Debug\net7.0\lab6.runtimeconfig.json
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\bin\Debug\net7.0\lab6.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\bin\Debug\net7.0\lab6.pdb
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\obj\Debug\net7.0\lab6.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\obj\Debug\net7.0\refint\lab6.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\obj\Debug\net7.0\lab6.pdb
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\obj\Debug\net7.0\lab6.genruntimeconfig.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\лаби\арх\lab6\lab6\obj\Debug\net7.0\ref\lab6.dll
