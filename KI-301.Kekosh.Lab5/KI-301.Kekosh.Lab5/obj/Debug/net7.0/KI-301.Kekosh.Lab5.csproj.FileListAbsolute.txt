@@ -1,0 +1,17 @@
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\bin\Debug\net7.0\KI-301.Kekosh.Lab5.exe
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\bin\Debug\net7.0\KI-301.Kekosh.Lab5.deps.json
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\bin\Debug\net7.0\KI-301.Kekosh.Lab5.runtimeconfig.json
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\bin\Debug\net7.0\KI-301.Kekosh.Lab5.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\bin\Debug\net7.0\KI-301.Kekosh.Lab5.pdb
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\KI-301.Kekosh.Lab5.csproj.AssemblyReference.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\KI-301.Kekosh.Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\KI-301.Kekosh.Lab5.AssemblyInfoInputs.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\KI-301.Kekosh.Lab5.AssemblyInfo.cs
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\KI-301.Kekosh.Lab5.csproj.CoreCompileInputs.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\KI-301.Kekosh.Lab5.csproj.CopyComplete
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\KI-301.Kekosh.Lab5.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\refint\KI-301.Kekosh.Lab5.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\KI-301.Kekosh.Lab5.pdb
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\KI-301.Kekosh.Lab5.genruntimeconfig.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab5\KI-301.Kekosh.Lab5\obj\Debug\net7.0\ref\KI-301.Kekosh.Lab5.dll

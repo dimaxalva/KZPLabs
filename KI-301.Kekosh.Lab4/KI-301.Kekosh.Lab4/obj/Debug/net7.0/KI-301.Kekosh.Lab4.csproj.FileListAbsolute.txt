@@ -1,0 +1,15 @@
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\bin\Debug\net7.0\KI-301.Kekosh.Lab4.exe
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\bin\Debug\net7.0\KI-301.Kekosh.Lab4.deps.json
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\bin\Debug\net7.0\KI-301.Kekosh.Lab4.runtimeconfig.json
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\bin\Debug\net7.0\KI-301.Kekosh.Lab4.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\bin\Debug\net7.0\KI-301.Kekosh.Lab4.pdb
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\obj\Debug\net7.0\KI-301.Kekosh.Lab4.csproj.AssemblyReference.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\obj\Debug\net7.0\KI-301.Kekosh.Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\obj\Debug\net7.0\KI-301.Kekosh.Lab4.AssemblyInfoInputs.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\obj\Debug\net7.0\KI-301.Kekosh.Lab4.AssemblyInfo.cs
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\obj\Debug\net7.0\KI-301.Kekosh.Lab4.csproj.CoreCompileInputs.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\obj\Debug\net7.0\KI-301.Kekosh.Lab4.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\obj\Debug\net7.0\refint\KI-301.Kekosh.Lab4.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\obj\Debug\net7.0\KI-301.Kekosh.Lab4.pdb
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\obj\Debug\net7.0\KI-301.Kekosh.Lab4.genruntimeconfig.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\KI-301.Kekosh.Lab4\KI-301.Kekosh.Lab4\obj\Debug\net7.0\ref\KI-301.Kekosh.Lab4.dll

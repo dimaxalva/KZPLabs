@@ -1,0 +1,15 @@
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\bin\Debug\net7.0\301.Kekosh.Lab2.exe
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\bin\Debug\net7.0\301.Kekosh.Lab2.deps.json
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\bin\Debug\net7.0\301.Kekosh.Lab2.runtimeconfig.json
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\bin\Debug\net7.0\301.Kekosh.Lab2.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\bin\Debug\net7.0\301.Kekosh.Lab2.pdb
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\obj\Debug\net7.0\301.Kekosh.Lab2.csproj.AssemblyReference.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\obj\Debug\net7.0\301.Kekosh.Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\obj\Debug\net7.0\301.Kekosh.Lab2.AssemblyInfoInputs.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\obj\Debug\net7.0\301.Kekosh.Lab2.AssemblyInfo.cs
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\obj\Debug\net7.0\301.Kekosh.Lab2.csproj.CoreCompileInputs.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\obj\Debug\net7.0\301.Kekosh.Lab2.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\obj\Debug\net7.0\refint\301.Kekosh.Lab2.dll
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\obj\Debug\net7.0\301.Kekosh.Lab2.pdb
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\obj\Debug\net7.0\301.Kekosh.Lab2.genruntimeconfig.cache
+C:\Users\xalva\OneDrive - lpnu.ua\Документи\Dev\лаби\301.Kekosh.Lab2\301.Kekosh.Lab2\obj\Debug\net7.0\ref\301.Kekosh.Lab2.dll
