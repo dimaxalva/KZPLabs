@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\lab1\\lab1\\lab1.csproj",
+      "projectUniqueName": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\KZPLabs\\lab1\\lab1\\lab1.csproj",
       "projectName": "lab1",
-      "projectPath": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\lab1\\lab1\\lab1.csproj",
+      "projectPath": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\KZPLabs\\lab1\\lab1\\lab1.csproj",
       "packagesPath": "C:\\Users\\xalva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\lab1\\lab1\\obj\\",
+      "outputPath": "C:\\Users\\xalva\\OneDrive - lpnu.ua\\Документи\\Dev\\лаби\\KZPLabs\\lab1\\lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xalva\\AppData\\Roaming\\NuGet\\NuGet.Config",
